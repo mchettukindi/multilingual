@@ -1,0 +1,80 @@
+Changes as of 10/22/2018
+
+        new file:   properties/20181018-incremental.properties
+        modified:   properties/messages.properties
+        modified:   templates/TermsAndConditions/TEL/EN/TermsandCondition.html
+        new file:   templates/TermsAndConditions/TEL/EN/reg_accommodation_non_self_serve_soon_exp.html
+        new file:   templates/TermsAndConditions/TEL/EN/reg_accommodation_self_serve_soon_exp.html
+        modified:   templates/TermsAndConditions/TEL/EN/reg_policy.html
+        modified:   templates/TermsAndConditions/TEL/EN/reschedule_accommodation_non_self_serve.html
+        new file:   templates/TermsAndConditions/TEL/EN/reschedule_accommodation_non_self_serve_soon_exp.html
+        modified:   templates/TermsAndConditions/TEL/EN/reschedule_flow_summary.html
+        new file:   templates/TermsAndConditions/TEL/EN/test_prep_ebook_content.html
+        new file:   templates/TermsAndConditions/TEL/EN/test_prep_sche_content.html
+        new file:   templates/TermsAndConditions/TEL/EN/test_prep_stand_content.html
+
+Changes as of 07/06/2018
+
+        new file:   properties/20180705-incremental.properties
+        modified:   properties/messages.properties
+        modified:   templates/Instructions/TEL/EN/test_prep_sche_content.html
+        modified:   templates/Instructions/TEL/EN/test_prep_stand_content.html
+        modified:   templates/Instructions/TEL/EN/reg_accommodation_non_self_serve.html
+        modified:   templates/Instructions/GRI/EN/reg_accommodation_non_self_serve.html
+
+Changes as of 01/26/2018
+
+        new file:   data/biq.csv
+        modified:   properties/messages.properties
+        new file:   templates/Instructions/MyTestPrepAndServicesPage.html
+        modified:   templates/Instructions/TEL/EN/test_prep_ebook_content.html
+        modified:   templates/Instructions/TEL/EN/test_prep_sche_content.html
+        modified:   templates/Instructions/TEL/EN/test_prep_stand_content.html
+        new file:   templates/Instructions/gre_temp_instructions_computer.html
+        new file:   templates/Instructions/gre_temp_instructions_paper.html
+        new file:   templates/Instructions/instructions_computer.html
+        new file:   templates/Instructions/instructions_paper.html
+        new file:   templates/Instructions/test_prep_after.html
+        new file:   templates/Instructions/test_prep_before.html
+        new file:   templates/Instructions/test_prep_with_offer.html
+        modified:   templates/TermsAndConditions/GAT/EN/TermsandCondition.html
+        modified:   templates/TermsAndConditions/GRI/EN/TermsandCondition.html
+        modified:   templates/TermsAndConditions/GRI/EN/reg_accommodation_non_self_serve.html
+        modified:   templates/TermsAndConditions/HSE/EN/TermsandCondition.html
+        modified:   templates/TermsAndConditions/HSE/EN/eligibility-IA.html
+        modified:   templates/TermsAndConditions/HSE/EN/eligibility-LA.html
+        modified:   templates/TermsAndConditions/HSE/EN/eligibility-MO.html
+        modified:   templates/TermsAndConditions/HSE/EN/eligibility-MT.html
+        modified:   templates/TermsAndConditions/HSE/EN/eligibility-TN.html
+        modified:   templates/TermsAndConditions/MIS/EN/TermsandCondition.html
+        modified:   templates/TermsAndConditions/PRI/EN/TermsandCondition.html
+        modified:   templates/TermsAndConditions/TEL/EN/TermsandCondition.html
+        deleted:    templates/TermsAndConditions/TEL/EN/UK_Country.html
+        deleted:    templates/TermsAndConditions/TEL/EN/US_Country.html
+        modified:   templates/TermsAndConditions/TEL/EN/reg_accommodation_non_self_serve.html
+        modified:   templates/TermsAndConditions/TEL/EN/reg_accommodation_self_serve.html
+        modified:   templates/TermsAndConditions/TEL/EN/reg_flow_summary.html
+        modified:   templates/TermsAndConditions/TEL/EN/reg_policy.html
+        modified:   templates/TermsAndConditions/TEL/EN/reschedule_accommodation_non_self_serve.html
+        modified:   templates/TermsAndConditions/TEL/EN/reschedule_flow_summary.html
+        new file:   templates/TermsAndConditions/TermsandCondition.html
+
+Changes as of 01/26/2018
+
+        deleted:    templates/TermsAndConditions/GAT/EN/TermsandCondition.html
+        deleted:    templates/TermsAndConditions/GAT/EN/reg_policy.html
+        deleted:    templates/TermsAndConditions/GRI/EN/New Jersey_State.html
+        deleted:    templates/TermsAndConditions/GRI/EN/STNDEV3_Test_Center.html
+        deleted:    templates/TermsAndConditions/GRI/EN/US_Country.html
+        deleted:    templates/TermsAndConditions/HSE/EN/TermsandCondition.html
+        deleted:    templates/TermsAndConditions/HSE/EN/eligibility-IA.html
+        deleted:    templates/TermsAndConditions/HSE/EN/eligibility-LA.html
+        deleted:    templates/TermsAndConditions/HSE/EN/eligibility-MO.html
+        deleted:    templates/TermsAndConditions/HSE/EN/eligibility-MT.html
+        deleted:    templates/TermsAndConditions/HSE/EN/eligibility-TN.html
+        deleted:    templates/TermsAndConditions/HSE/EN/eligibility.html
+        deleted:    templates/TermsAndConditions/HSE/EN/reg_policy.html
+        deleted:    templates/TermsAndConditions/MIS/EN/TermsandCondition.html
+        deleted:    templates/TermsAndConditions/MIS/EN/reg_policy.html
+        deleted:    templates/TermsAndConditions/PRI/EN/TermsandCondition.html
+        deleted:    templates/TermsAndConditions/PRI/EN/reg_policy.html
